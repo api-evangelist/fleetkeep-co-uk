@@ -1,4 +1,4 @@
-# fleetkeep-co-uk
+# Fleetkeep
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,154 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-fleetkeep-co-uk is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://fleetkeep.co.uk/
+Fleetkeep helps UK businesses track vehicle dates, maintenance, checks, documents and running costs. It offers a 30‑day trial with no card required, and provides fleet management tools such as MOT reminders, tax and insurance tracking, and integration with DVLA and DVSA services. The platform supports spreadsheet imports, connected tracking devices, and detailed cost reporting, aiming to simplify fleet compliance and operations for small to medium enterprises across the United Kingdom.
+
+**Areas:** Fleet Management · UK Business · Vehicle Maintenance · Compliance · SaaS
+
+## Fleetkeep on APIs.io
+
+Everything profiled for Fleetkeep is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fleetkeep-co-uk/](https://apis.io/providers/fleetkeep-co-uk/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [Fleetkeep Account API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-account-api/) — Read the authorised user's Fleetkeep profile and approved driver guidance.
+- [Fleetkeep Bookings API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-bookings-api/) — Save maintenance-derived booking requests. Garage email is a separate confirmed action.
+- [Fleetkeep Charging Prices API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-charging-prices-api/) — The Charging Prices API from Fleetkeep — 1 operation(s) for charging prices.
+- [Fleetkeep Costs API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-costs-api/) — The Costs API from Fleetkeep — 1 operation(s) for costs.
+- [Fleetkeep Defects API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-defects-api/) — Report and complete defects while preserving defect history.
+- [Fleetkeep Driver Workspace API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-driver-workspace-api/) — The Driver Workspace API from Fleetkeep — 3 operation(s) for driver workspace.
+- [Fleetkeep Drivers API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-drivers-api/) — The Drivers API from Fleetkeep — 2 operation(s) for drivers.
+- [Fleetkeep Equipment API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-equipment-api/) — Manage installed equipment, accounts and preserved lifecycle history.
+- [Fleetkeep Exports API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-exports-api/) — Download private no-store account and fleet spreadsheet exports.
+- [Fleetkeep Fuel Economy API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-fuel-economy-api/) — The Fuel Economy API from Fleetkeep — 2 operation(s) for fuel economy.
+- [Fleetkeep Fuel Prices API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-fuel-prices-api/) — The Fuel Prices API from Fleetkeep — 1 operation(s) for fuel prices.
+- [Fleetkeep Imports API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-imports-api/) — Preview and explicitly confirm fleet spreadsheet imports.
+- [Fleetkeep Jobs API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-jobs-api/) — The Jobs API from Fleetkeep — 2 operation(s) for jobs.
+- [Fleetkeep Maintenance API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-maintenance-api/) — Manage maintenance tasks while preserving completed history.
+- [Fleetkeep Public Charging Prices API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-public-charging-prices-api/) — The Public Charging Prices API from Fleetkeep — 1 operation(s) for public charging prices.
+- [Fleetkeep Reminders API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-reminders-api/) — Manage consented reminder settings and contacts. External verification is previewed and confirmed separately.
+- [Fleetkeep Settings API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-settings-api/) — The Settings API from Fleetkeep — 1 operation(s) for settings.
+- [Fleetkeep Tolls API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-tolls-api/) — The Tolls API from Fleetkeep — 7 operation(s) for tolls.
+- [Fleetkeep Tracking API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-tracking-api/) — Read stored fleet tracking snapshots and authorised Wex route data without changing provider connections.
+- [Fleetkeep Vehicles API](https://apis.io/apis/fleetkeep-co-uk/fleetkeep-co-uk-vehicles-api/) — Manage the authorised user's vehicles.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Fleetkeep Co Uk Agentic Access](https://apis.io/agentic-access/fleetkeep-co-uk/fleetkeep-co-uk-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PublicAccountExport](https://apis.io/schemas/fleetkeep-co-uk/fleetkeep-co-uk-public-account-export/)
+- [TollForwardingSetup](https://apis.io/schemas/fleetkeep-co-uk/fleetkeep-co-uk-toll-forwarding-setup/)
+- [TollOperations](https://apis.io/schemas/fleetkeep-co-uk/fleetkeep-co-uk-toll-operations/)
+- [TrackingVehicle](https://apis.io/schemas/fleetkeep-co-uk/fleetkeep-co-uk-tracking-vehicle/)
+- [Vehicle](https://apis.io/schemas/fleetkeep-co-uk/fleetkeep-co-uk-vehicle/)
+- [WalkaroundHistory](https://apis.io/schemas/fleetkeep-co-uk/fleetkeep-co-uk-walkaround-history/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Fleetkeep Co Uk Context](https://apis.io/jsonld/fleetkeep-co-uk/fleetkeep-co-uk-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Fleetkeep API Rules](https://apis.io/rules/fleetkeep-co-uk/fleetkeep-co-uk-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fleetkeep Co Uk Authentication](https://apis.io/security/fleetkeep-co-uk/fleetkeep-co-uk-authentication/)
+- [Fleetkeep Co Uk Domain Security](https://apis.io/security/fleetkeep-co-uk/fleetkeep-co-uk-domain-security/)
+- [Fleetkeep Co Uk Vulnerability Disclosure](https://apis.io/security/fleetkeep-co-uk/fleetkeep-co-uk-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Fleetkeep Co Uk Scopes](https://apis.io/scopes/fleetkeep-co-uk/fleetkeep-co-uk-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Fleetkeep Co Uk Plans Pricing](https://apis.io/plans/fleetkeep-co-uk/fleetkeep-co-uk-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fleetkeep.co.uk/)
+- [API reference](https://fleetkeep.co.uk/developers)
+- [Pricing](https://fleetkeep.co.uk/pricing)
+- [Support](https://fleetkeep.co.uk/contact)
+- [Security](https://fleetkeep.co.uk/legal/privacy)
+- [Terms of service](https://fleetkeep.co.uk/legal/terms)
+- [Privacy policy](https://fleetkeep.co.uk/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 52.3** — developing · rubric 0.27.0 · scored 2026-11-08
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 59.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 50.5 |
+
+**Agent readiness 64.2** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 40.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fleetkeep-co-uk/](https://apis.io/providers/fleetkeep-co-uk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fleetkeep: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fleetkeep-co-uk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
